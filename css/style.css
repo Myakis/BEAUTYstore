@@ -406,7 +406,7 @@ hr {
   background: url(../img/instagram.svg) no-repeat center center;
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
   .header__list {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
